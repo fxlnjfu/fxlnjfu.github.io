@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Emerald | A simple Jekyll blog</title>
+ <link href="http://www.jacoporabolini.com/emerald/atom.xml" rel="self"/>
+ <id>http://www.jacoporabolini.com/emerald</id>
+ <updated>2015-06-10T11:28:07+08:00</updated>
+ <author>
+   <name>Jacopo Rabolini</name>
+   <uri>http://www.jacoporabolini.com</uri>
+   <email>hello@jacoporabolini.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>我的第一篇博客</title>
+   <link href="http://www.jacoporabolini.com/emerald/hello-world"/>
+   <id>http://www.jacoporabolini.com/emerald/hello-world</id>
+   <updated>2015-02-10T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;大家好,这是我的第一篇博客!我现在是南大的一名计算机系研究生,我研究的方向是计算机视觉,计算机图像学,我对自然语言处理和机器学习也很感兴趣.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+
+</feed>
