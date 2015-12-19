@@ -1,0 +1,22 @@
+---
+title: 计算机视觉的著名网址
+---
+- [浙江工业大学](http://sychen.com.nu/research/group.htm)
+- [南开大学媒体计算实验室](http://mmcheng.net/cmm/)
+- [香港中文大学](http://www.cse.cuhk.edu.hk/leojia/research.html)
+- [斯坦福大学视觉实验室](http://vision.stanford.edu/publications.html#2005_papers)
+- [中山大学智能信息处理实验室](http://gitl.sysu.edu.cn/)
+- [中山大学智能媒体计算实验室](http://vision.sysu.edu.cn/projects/)
+- [上海交通大学](http://bcmi.sjtu.edu.cn/resource.html)
+- [河海大学计算机图形与虚拟现实实验室](http://cg.hhuc.edu.cn/s/2097/t/2402/85/97/info99735.htm)
+- [大连理工大学计算机视觉](http://202.118.75.4/lu/publications.html)
+- [韦仕敦大学](http://vision.csd.uwo.ca/viki/Introduction)
+- [清华大学](http://cg.cs.tsinghua.edu.cn/)
+- [香港中文大学](http://www.ee.cuhk.edu.hk/~qliu/ITF-software.htm)
+- [加拿大西蒙弗雷泽大学](http://gitl.sysu.edu.cn/)
+- [伯克利计算机视觉](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/)
+- [香港中文大学多媒体实验室](http://mmlab.ie.cuhk.edu.hk/projects.html)
+- [msu](http://graphics.cs.msu.ru/en/research/projects/old)
+- [Baidu Research](http://www.ics.uci.edu/~yyang8/)
+- [CMU](http://www.ics.uci.edu/~dramanan/software/pose/)
+- [博客](http://gujiuxiang.github.io/2015/07/21/DL-Boundary-Detection/)
