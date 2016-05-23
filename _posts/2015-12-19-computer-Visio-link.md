@@ -1,6 +1,7 @@
 ---
 title: 计算机视觉的著名网址
 ---
+- [中科院可视化信息处理和学习](http://vipl.ict.ac.cn/)
 - [浙江工业大学](http://sychen.com.nu/research/group.htm)
 - [南开大学媒体计算实验室](http://mmcheng.net/cmm/)
 - [香港中文大学](http://www.cse.cuhk.edu.hk/leojia/research.html)
